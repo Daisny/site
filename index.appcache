@@ -1,0 +1,19 @@
+CACHE MANIFEST
+#1.143
+index.php
+css/style.css
+css/cloud.css
+js/jquery.min.js
+js/jquery.onscreen.min.js
+js/circleProgress.js
+js/modernizr.2.5.3.min.js
+avatar.jpg
+images/cloud-1.png
+images/cloud-2.png
+images/water-1.png
+images/water-2.png
+images/water-3.png
+images/water-4.png
+images/boat.png
+NETWORK:
+*
